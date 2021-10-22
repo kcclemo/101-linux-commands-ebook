@@ -27,6 +27,3 @@ $ factor 50
 ```bash
 $ factor 75
 ```
-
-
-

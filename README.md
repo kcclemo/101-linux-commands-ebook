@@ -559,6 +559,7 @@ Feel free to add new topics in case that you don't find one that you like from t
 - [paste](ebook/en/content/060-the-paste-command.md) - merge corresponding or subsequent lines of file
 - [rsync](ebook/en/content/086-the-rsync-command.md) - remote copy files
 - [scp](ebook/en/content/076-the-scp-command.md) - secure copy
+- [basename](ebook/en/content/111-the-basename-command.md) - strips directory information and suffixes from file path
 - [sed](ebook/en/content/099-the-sed-command.md) - text transformation tool
 - [sort](ebook/en/content/059-the-sort-command.md) - arrange or merge lines of files
 - [split](ebook/en/content/078-the-split-command.md) - split a file into pieces
@@ -659,6 +660,8 @@ For user modification, see useradd, userdel, usermod under System commands
 - [wget](ebook/en/content/045-the-wget-command.md) - non-interactive web file download
 - [xargs](ebook/en/content/092-the-xargs-command.md) - construct argument lists and execute utility
 - [yes](ebook/en/content/047-the-yes-command.md) - print continous output stream
+- [banner](ebook/en/content/112-the-banner-command.md) - Writes ASCII character strings in large letters to standard output.
+
 
 
 ---
@@ -778,6 +781,9 @@ Feel free to add new topics in case that you don't find one that you like from t
 - [108-the-screen-command.md](ebook/en/content/108-the-screen-command.md)
 - [109-the-nc-command.md](ebook/en/content/109-the-nc-command.md)
 - [110-the-make-command.md](ebook/en/content/110-the-make-command.md)
+- [111-the-basename-command.md](ebook/en/content/111-the-basename-command.md)
+- [112-the-banner-command.md](ebook/en/content/112-the-banner-command.md)
+- [113-the-alias-command.md](ebook/en/content/113-the-alias-command.md)
 
 # 🔗Links
 
